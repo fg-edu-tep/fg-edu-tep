@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-This is my alternate GitHub account, primarily used for university projects.
+This is **my alternate GitHub account**, primarily used **for university projects**.
 
 🔗 **Looking for my main account?** Find me here: [github.com/fgutep](https://github.com/fgutep)
 
