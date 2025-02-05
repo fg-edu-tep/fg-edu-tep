@@ -10,6 +10,6 @@ This is my **alternate GitHub account, primarily used for university projects**.
 
 📂 Here, you can find some old labs, projects, and notes that can also be found on a public Obsidian garden based on "Webpage HTML export."
 
-🗒️ Notes can be found at [notes.fgutep.xyz](https://notes.fgutep.xyz).
+🗒️ Class notes can be found at [notes.fgutep.xyz](https://notes.fgutep.xyz).
 
 Thanks for stopping by! 🚀
